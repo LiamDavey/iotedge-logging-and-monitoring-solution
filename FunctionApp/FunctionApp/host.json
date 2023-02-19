@@ -8,7 +8,7 @@
         "prefetchCount": 512
       },
       "initialOffsetOptions": {
-        "type": "fromStart"
+        "type": "FromEnd"
       }
     }
   },
@@ -20,7 +20,7 @@
       }
     },
     "logLevel": {
-      "default": "Information"
+      "default": "Debug"
     }
   }
 }
